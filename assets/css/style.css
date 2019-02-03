@@ -4,8 +4,11 @@ html{
 }
 
 body{
+    background: url("pexels-photo-457882.jpeg") repeat 0 0;
+    min-height: 100%;
     display: block;
-    background-image: url("pexels-photo-457882.jpeg");
+    
+    
 }
 
 nav{
@@ -13,9 +16,7 @@ nav{
     padding: 28px;
     text-align: right;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
     margin-bottom: 40px;
- 
 }
 
 .name{
